@@ -1,0 +1,6 @@
+pyspark==3.5.1
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+influxdb-client>=1.36
+jupyter>=1.0
